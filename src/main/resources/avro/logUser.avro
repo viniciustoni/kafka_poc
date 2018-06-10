@@ -1,0 +1,10 @@
+{
+   "namespace": "Message",
+   "type": "record",
+   "name": "LogUser",
+   "fields": [
+      {"name": "USER_ID", "type": "long"},
+      {"name": "USER_NAME",  "type": "string"},
+      {"name": "DATA_REGISTRY", "type": "long"}
+   ] 
+ }
